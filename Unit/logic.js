@@ -16,7 +16,7 @@ module.exports = class Unit
      * Private - методы внутренней реализации
      */
 
-    /** PrivateMethodName */
+    /** PrivateMethodName - необходим для */
     PrivateMethodName(){
         
     }
